@@ -12,3 +12,4 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
 <br />
 
 ![Emel's github stats](https://github-readme-stats.vercel.app/api?username=emel-kayaci&show_icons=true&hide_border=true)
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
