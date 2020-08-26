@@ -17,4 +17,13 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
 <br />
 ### Languages and Tools
 
+<p align="center">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+</p>
+
+
 ![Emel's github stats](https://github-readme-stats.vercel.app/api?username=emel-kayaci&show_icons=true&hide_border=true)
