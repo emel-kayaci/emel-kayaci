@@ -11,11 +11,4 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
   <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
 <br />
 
-
-  
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-
 ![Emel's github stats](https://github-readme-stats.vercel.app/api?username=emel-kayaci&show_icons=true&hide_border=true)
