@@ -2,11 +2,12 @@
 
 <a href="https://www.linkedin.com/in/emel-kayac%C4%B1-825a19178/">
   <img align="left" alt="Emel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<br />
-<br />
-<p 
+  <p 
 Hi, I'm Emel Kayacı, from Turkey, currently studying machine learning. 🤖
 <p />
+<br />
+<br />
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
   
 **Languages and Tools:**  
