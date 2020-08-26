@@ -3,10 +3,11 @@
 <a href="https://www.linkedin.com/in/emel-kayac%C4%B1-825a19178/">
   <img align="left" alt="Emel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a />
-<p
-Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖
-<p />
+
+
+
 <br />
+Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
