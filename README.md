@@ -1,4 +1,4 @@
-### Hey 👋, I'm Emel!
+# Hey 👋, I'm Emel!
 
 <a href="https://www.linkedin.com/in/emel-kayac%C4%B1-825a19178/">
   <img align="left" alt="Emel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,7 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
   <img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
 <br />
 
-### Languages and Tools
+# Languages and Tools
 
 <p align="center">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
