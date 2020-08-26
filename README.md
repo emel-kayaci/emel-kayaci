@@ -4,9 +4,9 @@
   <img align="left" alt="Emel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <br />
 <br />
-
+<p 
 Hi, I'm Emel Kayacı, from Turkey, currently studying machine learning. 🤖
-
+<p />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
   
 **Languages and Tools:**  
