@@ -14,8 +14,8 @@
 <p align="left"> 
   
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
   </p>
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
 <br />
 
 ## Languages and Tools
