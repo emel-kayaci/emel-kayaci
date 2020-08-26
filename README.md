@@ -15,6 +15,7 @@
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖
   <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
 <br />
+
 ### Languages and Tools
 
 <p align="center">
