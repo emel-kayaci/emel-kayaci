@@ -11,7 +11,8 @@
   <img align="left" alt="Emel's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<p align="left">
+<p align="left"> 
+  
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖 
   </p>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
