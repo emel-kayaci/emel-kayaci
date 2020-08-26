@@ -4,7 +4,7 @@
   <img align="left" alt="Emel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a />
 
-Hi, I'm Emel Kayacı, from Turkey, currently studying machine learning. 🤖
+Hi, I am a 3rd Year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖
 
 <br />
 <br />
