@@ -7,7 +7,7 @@
 
 Hi, I'm Emel Kayacı, from Turkey, currently studying machine learning. 🤖
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/tczJoRU7XwBS8" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
   
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
