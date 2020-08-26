@@ -14,12 +14,12 @@
 <p align="left"> 
   
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖 
+
 <img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
   </p>
 <br />
 
 ## Languages and Tools
-
 <p align="center">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
