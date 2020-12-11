@@ -16,15 +16,6 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
   </p>
 <br />
 
-## Languages and Tools
-<p align="center">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
-</p>
-
 ![Emel's github stats](https://github-readme-stats.vercel.app/api?username=emel-kayaci&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&line_height=31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emel-kayaci&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/emel-kayaci/github-readme-stats)
 
