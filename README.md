@@ -22,7 +22,7 @@ Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studyin
 <p align="left">
 <a href="https://www.linkedin.com/in/emel-kayac%C4%B1-825a19178/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emel-kayac%C4%B1-825a19178/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLiV0ilPr5n9EB6cb5PIWCg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCLiV0ilPr5n9EB6cb5PIWCg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/emelkayaci_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/emelkayaci_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/emelkayaci_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/emelkayaci_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
