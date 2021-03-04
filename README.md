@@ -2,11 +2,7 @@
   
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif" />
-  </p>
-<br />
-
-- 📫 How to reach me **kayaciemel18@gmail.com**
+📫 How to reach me **kayaciemel18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
