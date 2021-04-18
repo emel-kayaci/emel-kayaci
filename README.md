@@ -1,6 +1,8 @@
 # Hey 👋, I'm Emel!
   
-Hi, I am a 3rd year undergraduate from Ege University, Turkey. Currently studying machine learning. 🤖 
+Hi, I am a 3rd year undergraduate from Ege University, Turkey. 
+
+📚 I’m currently learning machine learning and Spark.
 
 📫 How to reach me **kayaciemel18@gmail.com**
 
