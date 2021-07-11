@@ -2,7 +2,7 @@
   
 Hi, I am a 3rd year undergraduate from Ege University, Turkey. 
 
-📚 I’m currently learning machine learning and Spark.
+📚 I’m currently learning machine learning.
 
 📫 How to reach me **kayaciemel18@gmail.com**
 
