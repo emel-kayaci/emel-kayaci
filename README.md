@@ -1,6 +1,6 @@
 # Hey 👋, I'm Emel!
   
-Hi, I am a 3rd year undergraduate from Ege University, Turkey. 
+Hi, I am a 4th year undergraduate from Ege University, Turkey. 
 
 📚 I’m currently learning machine learning.
 
